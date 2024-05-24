@@ -27,9 +27,9 @@ Independent dev team. Hobbyists who r sharing passion about gaming. <br>
   ```
   </details>
   </p>
-</p>
+</p><br>
     
-  ## Our Techs
+  ### Our Techs
     
 - ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
   ![Blender](https://img.shields.io/badge/-Blender-red?style=for-the-badge&logo=blender&logoColor=white)
@@ -55,9 +55,9 @@ Independent dev team. Hobbyists who r sharing passion about gaming. <br>
  
 ## Connect with Us
 
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/limelight-mint)
   [![MintyBar Global](https://img.shields.io/badge/MintyBar-Global-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelight.global/)
   [![MintyBar Asia](https://img.shields.io/badge/MintyBar-Asia-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelight.asia/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/limelight-mint)
 
 ___
 
