@@ -1,7 +1,7 @@
 <p float="right">
   <img src='https://bunbun.cloud/assets/images/banner-bg.png' width='500' align="right">
   <p float="right">
-  <a href="https://mentallystable4sure.dev/"><img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left"></a> <br><br><br>
+  <a href="https://mentallystable4sure.dev/"><img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left"></a> <br>
     
 > Independent dev team, bunch of hobbyists over the world who r sharing passion about gaming: <br>
 >  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> 🥝 [Limelight Mint Asia 🥝](https://limelightmint.asia)
@@ -20,7 +20,7 @@
   ```
 
   
-  > Recruitment, deals, job application, urgent questions about documents:
+  > Recruitment, deals, job application, etc.:
   ```
   corp@limelightmint.global
   corp@limelightmint.asia
