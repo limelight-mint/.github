@@ -3,7 +3,7 @@
   <p float="right">
   <a href="https://mentallystable4sure.dev/"><img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left"></a> <br>
     
-> Independent dev team, bunch of hobbyists over the world who r sharing passion about gaming: <br>
+Independent dev team. Basically, bunch of hobbyists over the world who r sharing passion about gaming. <br>
 >  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> 🥝 [Limelight Mint Asia 🥝](https://limelightmint.asia)
 
 > BarHubs [Info Centers]: <br>
