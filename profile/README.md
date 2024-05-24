@@ -11,7 +11,7 @@
   [![MintyBar Asia](https://img.shields.io/badge/MintyBar-Asia-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelight.asia/)
 
 <details>
-  <summary>💬 For partnership, jobs application or collaboration 💬</summary>
+  <summary>💬 Partnership, recruitment, collaboration 💬</summary>
     
   > Partnership or collaboration:
   ```
@@ -20,7 +20,7 @@
   ```
 
   
-  > Hiring, deals, job application, urgent questions about documents:
+  > Recruitment, deals, job application, urgent questions about documents:
   ```
   corp@limelightmint.global
   corp@limelightmint.asia
