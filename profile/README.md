@@ -1,7 +1,7 @@
 <p float="right">
   <img src='https://bunbun.cloud/assets/images/banner-bg.png' width='500' align="right">
   <p float="right">
-  <a href="https://limelightmint.global/"><img src='https://limelightmint.global/assets/images/features-icon-1.png' width='75' align="left"></a> <br>
+  <a href="https://limelightmint.global/"><img src='https://github.com/limelight-mint/.github/blob/main/icon.png?raw=true' width='75' align="left"></a> <br>
     
 Independent dev team. Hobbyists who r sharing passion about gaming. <br>
 >  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> 🥝 [Limelight Mint Asia 🥝](https://limelightmint.asia)
