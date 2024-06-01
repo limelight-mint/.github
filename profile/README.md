@@ -1,14 +1,14 @@
 <p float="right">
   <img src='https://bunbun.cloud/assets/images/banner-bg.png' width='500' align="right">
   <p float="right">
-  <a href="https://mentallystable4sure.dev/"><img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left"></a> <br>
+  <a href="https://limelightmint.global/"><img src='https://limelightmint.global/assets/images/features-icon-1.png' width='75' align="left"></a> <br>
     
 Independent dev team. Hobbyists who r sharing passion about gaming. <br>
 >  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> 🥝 [Limelight Mint Asia 🥝](https://limelightmint.asia)
 
 > BarHubs [Info Centers]: <br>
-  [![MintyBar Global](https://img.shields.io/badge/MintyBar-Global-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelight.global/) <br>
-  [![MintyBar Asia](https://img.shields.io/badge/MintyBar-Asia-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelight.asia/)
+  [![MintyBar Global](https://img.shields.io/badge/MintyBar-Global-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelightmint.global/) <br>
+  [![MintyBar Asia](https://img.shields.io/badge/MintyBar-Asia-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelightmint.asia/)
 
 <details>
   <summary>💬 Partnership, recruitment, collaboration 💬</summary>
