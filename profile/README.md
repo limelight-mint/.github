@@ -6,9 +6,8 @@
 Independent dev team. Hobbyists who r sharing passion about gaming. <br>
 >  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> 🥝 [Limelight Mint Asia 🥝](https://limelightmint.asia)
 
-> BarHubs [Info Centers]: <br>
-  [![MintyBar Global](https://img.shields.io/badge/MintyBar-Global-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelightmint.global/) <br>
-  [![MintyBar Asia](https://img.shields.io/badge/MintyBar-Asia-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mintybar.limelightmint.asia/)
+> LLM Universe Hub: <br>
+  [![MintyBar Global](https://img.shields.io/badge/Minty-Bar-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://minty.bar/) <br>
 
 <details>
   <summary>💬 Partnership, recruitment, collaboration 💬</summary>
