@@ -4,9 +4,7 @@
   <a href="https://limelightmint.global/"><img src='https://github.com/limelight-mint/.github/blob/main/icon.png?raw=true' width='75' align="left"></a> <br>
     
 Independent ~~dev team~~ me. Hobbyist~~s~~ who r sharing passion about gaming. <br>
->  🍋 [Limelight Mint Global 🍋](https://limelightmint.global) <br> ✨ [Developer ✨](https://bliss.moe)
-
-> 🥝 MintyBar (WIP): <br>
+> 🥝 Community based network for our pojects: <br>
   [![MintyBar ✨](https://img.shields.io/badge/Minty-Bar-9370DB?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://minty.bar/) <br>
 
 <details>
@@ -15,7 +13,6 @@ Independent ~~dev team~~ me. Hobbyist~~s~~ who r sharing passion about gaming. <
   > Partnership or collaboration:
   ```
   support@bliss.moe
-  partnership@limelightmint.global
   ```
 
   
