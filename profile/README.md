@@ -1,5 +1,5 @@
 <p float="right">
-  <img src='https://bunbun.cloud/assets/images/banner-bg.png' width='500' align="right">
+  <img src='https://eepywitches.cloud/assets/images/banner-bg.png' width='500' align="right">
   <p float="right">
   <a href="https://limelightmint.global/"><img src='https://github.com/limelight-mint/.github/blob/main/icon.png?raw=true' width='75' align="left"></a> <br>
     
